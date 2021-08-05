@@ -1,0 +1,15 @@
+http://localhost:3000/todos/
+
+###
+http://localhost:3000/todos/?status=TO%20DO
+###
+http://localhost:3000/todos/?priority=HIGH
+###
+
+http://localhost:3000/todos/?priority=HIGH&status=IN%20PROGRESS
+###
+
+http://localhost:3000/todos/?search_q=Play
+###
+
+http://localhost:3000/todos/:todoId/
